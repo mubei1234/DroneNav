@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DroneNav: Unified Text-Visual Representation and Structured Spatial Reasoning for Robust UAV Vision-and-Language Navigation
 
 ## First Stage
@@ -98,3 +99,6 @@ Using "target_rgb" to obtain training images data. Then using the following scri
 ```bash
 sh LLaVA-1.6-ft-main/scripts/v1_6/finetune_lora_llava_mistral.sh
 ```
+=======
+# DroneNav
+>>>>>>> 09d75a2811dfb1985223cc62c48292d0b8f8ebf8
